@@ -1,3 +1,3 @@
 #!/bin/sh
 
-docker build -t taylorabarnes/chem284
+docker build -t taylorabarnes/chem284 .

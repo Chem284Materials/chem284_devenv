@@ -1,2 +1,2 @@
-docker build -t taylorabarnes/chem284
+docker build -t taylorabarnes/chem284 .
 pause
